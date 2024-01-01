@@ -1,0 +1,5 @@
+<!-- this is home page html  -->
+
+{% for section in sections %}
+    {% include('sections/' ~ section ~ '.html') %}
+{% endfor %}
