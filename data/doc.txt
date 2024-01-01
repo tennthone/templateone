@@ -1,0 +1,8 @@
+mock data to be tested 
+
+Example file 
+
+data = {
+    "name" : "Tenthone",
+    "email" : "tenthone@gmail.com"
+}
